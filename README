@@ -5,5 +5,18 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+M.2/
+  M.2, formerly known as the Next Generation Form Factor (NGFF),
+  is a specification for internally mounted computer expansion
+  cards and associated connectors.  It replaces the mSATA standard,
+  which uses the PCI Express Mini Card physical card layout and
+  connectors.  M.2's more flexible physical specification allows
+  different module widths and lengths, and, paired with the
+  availability of more advanced interfacing features, makes the
+  M.2 more suitable than mSATA for solid-state storage applications
+  in general and particularly for the use in small devices such as
+  ultrabooks or tablets.[1][2][3]
+  https://en.wikipedia.org/wiki/M.2
+
 manifest
   Manifest for resync application

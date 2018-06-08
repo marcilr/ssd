@@ -20,6 +20,7 @@
 #
 # =====================================================================
 # =====================================================================
+ssh://git@github.com/marcilr/2.5-M.2-SSD-to-SATA-III-adapter   2.5-M.2-SSD-to-SATA-III-adapter
 ssh://git@github.com/marcilr/corsair    corsair
 ssh://git@github.com/marcilr/crucial    crucial
 ssh://git@github.com/marcilr/kingston   kingston

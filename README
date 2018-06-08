@@ -36,3 +36,6 @@ M.2/
 
 manifest
   Manifest for resync application
+
+nvme/
+  NVMe (Non-Volatile Memory Express)

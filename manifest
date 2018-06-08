@@ -20,6 +20,7 @@
 #
 # =====================================================================
 # =====================================================================
+ssh://git@github.com/marcilr/corsair    corsair
 ssh://git@github.com/marcilr/crucial    crucial
 ssh://git@github.com/marcilr/kingston   kingston
 ssh://git@github.com/marcilr/M.2        M.2

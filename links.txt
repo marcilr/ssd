@@ -1,0 +1,15 @@
+links.txt
+Created Fri Jun  8 09:01:36 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+SSD related links
+
+
+Links
+=====
+Everything you need to know about NVMe, the insanely fast future for SSDs
+Memory-based storage take flight.
+Jon L. Jacobi By Jon L. Jacobi
+Freelance contributor, PCWorld | APR 3, 2015 3:30 AM PT
+https://www.pcworld.com/article/2899351/storage/everything-you-need-to-know-about-nvme.html

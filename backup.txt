@@ -1,0 +1,40 @@
+backup.txt
+Created Thu Jul 12 10:12:49 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Backup
+
+
+Thinking about backing up 2TB of Kingston SSD to a cheap
+2TB hard drive.
+
+WD Blue 2TB Desktop Hard Disk Drive - SATA 6 Gb/s 64MB Cache 3.5 Inch - 
+WD20EZRZ by Western Digital
+price: $59.99 (amazon prime - July 11, 2018)
+
+WD Black 2TB Performance Desktop Hard Disk Drive - 
+7200 RPM SATA 6 Gb/s 64MB Cache 3.5 Inch - WD2003FZEX
+by Western Digital
+price: $118.99 (amazon prime - July 11, 2018)
+
+WD Red 2TB NAS Hard Disk Drive - 5400 RPM Class SATA
+6 Gb/s 64MB Cache 3.5 Inch - WD20EFRX
+by Western Digital
+price: $83.99 (amazon prime - July 11, 2018)
+
+4x 2 = 8TB
+6x $83.99 = $498 (amazon prime - July 11, 2018)
+
+
+WD Red 10TB NAS Hard Disk Drive - 5400 RPM Class 
+SATA 6 Gb/s 256MB Cache 3.5 Inch - WD100EFAX
+price: $324.47 (amazon prime - July 11, 2018)
+
+
+Or not so cheap:
+  Crucial MX500 2TB SATA 2.5-inch 7mm (with 9.5mm adapter) Internal SSD
+  part #: CT2000MX500SSD1
+  2TB 2.5-inch internal SSD • SATA 6.0Gb/s • 560 MB/s Read, 510 MB/s Write
+  price: $449.99
+  http://www.crucial.com/usa/en/ssd/?gclid=Cj0KCQjw-JvaBRDGARIsAFjqkkoC6TC7VI-RG7tCAP7-4yx9uMav3aji_ewREx0zr921_fj8CT6XPnEaAt3rEALw_wcB&cm_mmc=google-_-us-_-ssd-_-null&ef_id=WuC50wAAB9GFHu17:20180712181407:s

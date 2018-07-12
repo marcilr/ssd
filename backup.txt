@@ -9,6 +9,7 @@ Backup
 Thinking about backing up 2TB of Kingston SSD to a cheap
 2TB hard drive.
 
+
 WD Blue 2TB Desktop Hard Disk Drive - SATA 6 Gb/s 64MB Cache 3.5 Inch - 
 WD20EZRZ by Western Digital
 price: $59.99 (amazon prime - July 11, 2018)
@@ -27,9 +28,45 @@ price: $83.99 (amazon prime - July 11, 2018)
 6x $83.99 = $498 (amazon prime - July 11, 2018)
 
 
+WD Red 4TB NAS Hard Disk Drive - 5400 RPM Class SATA 6 GB/S 64 MB Cache 3.5-Inch - WD40EFRX
+price: $124.99 (amazon prime - July 12, 2018)
+
 WD Red 10TB NAS Hard Disk Drive - 5400 RPM Class 
 SATA 6 Gb/s 256MB Cache 3.5 Inch - WD100EFAX
 price: $324.47 (amazon prime - July 11, 2018)
+
+
+USB 3.0 / eSATA Dual Hard Drive Docking Station
+with UASP for 2.5/3.5in SATA SSD / HDD – SATA 6 Gbps
+Easily connect and swap two 2.5 or 3.5in SATA III drives
+through eSATA or USB 3.0
+NOTE: This is a *very nice* unit for backups.
+price: $55.03 (amazon prime - July 12, 2018)
+https://www.startech.com/HDD/Docking/usb-3-esata-dual-drive-dock~SDOCK2U33EB
+https://www.amazon.com/StarTech-com-Docking-Station-3-5-Inch-SDOCK2U33EB/dp/B00KILQOG0/ref=sr_1_4?ie=UTF8&qid=1531421343&sr=8-4&keywords=esata+docking+station&dpID=41If7-ZUHtL&preST=_SY300_QL70_&dpSrc=srch
+
+StarTech 6-Feet Shielded External eSATA Cable M/M (ESATA6)
+You purchased this item on March 7, 2014.
+NOTE: Looks like I had purchased 2 of these cables.
+price: $7.17 (amazon -July 12, 2018)
+https://www.amazon.com/StarTech-6-Feet-Shielded-External-ESATA6/dp/B000ENYXZ6/ref=pd_bxgy_147_img_2?_encoding=UTF8&pd_rd_i=B000ENYXZ6&pd_rd_r=4b2de496-8604-11e8-88f0-530297bd69ef&pd_rd_w=nmgo5&pd_rd_wg=aOxqq&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3914568618330124508&pf_rd_r=5QPGPBD5HDC49TH9Y9Z2&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=5QPGPBD5HDC49TH9Y9Z2
+
+Rosewill 3.5 Inch Hard Drive Enclosure to USB 3.0 / eSATA.
+External Hard Drive Case Aluminum Body, Built-in Cooling Fan
+and Fan Switch. Support 3.5” SATA III / II / I Hard Drive
+up to 6TB and UASP function.
+price: $35.99 (amazon prime - July 12, 2018)
+https://www.amazon.com/Rosewill-Enclosure-External-Aluminum-function/dp/B005KGNXTE/ref=pd_bxgy_147_img_3?_encoding=UTF8&pd_rd_i=B005KGNXTE&pd_rd_r=05c33e44-8605-11e8-af94-512c4a9e243e&pd_rd_w=uauNo&pd_rd_wg=UN3O1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3914568618330124508&pf_rd_r=E9R61K5H0MNM66A9D5E8&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=E9R61K5H0MNM66A9D5E8
+
+StarTech PEXESAT32 2 Port SATA 6 Gbps PCI Express eSATA Controller Card
+o Supports SATA Rev 3.0 transfer speeds up to 6.0Gbps; backward compatible
+with SATA I/II at 1.5/3.0Gbps
+price: $26.92 (amazon prime - July 12, 2018)
+https://www.amazon.com/StarTech-PEXESAT32-Express-eSATA-Controller/dp/B003GSGMPU/ref=pd_bxgy_147_img_2?_encoding=UTF8&pd_rd_i=B003GSGMPU&pd_rd_r=05c33e44-8605-11e8-af94-512c4a9e243e&pd_rd_w=uauNo&pd_rd_wg=UN3O1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3914568618330124508&pf_rd_r=E9R61K5H0MNM66A9D5E8&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=E9R61K5H0MNM66A9D5E8
+
+Cable Matters 2 Pack 6 Gbps Shielded eSATA Cable 6 Feet
+price: $9.99 (amazon prime - July 12, 2018)
+https://www.amazon.com/dp/B00V6QA282/ref=sxbs_sxwds-stvpv2_1?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3233965245922079678&pd_rd_wg=udYm6&pf_rd_r=E694FV3KH3Y8ZSW9EQQ4&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=B00V6QA282&pd_rd_w=AMoCa&pf_rd_i=StarTech+6-Feet+Shielded+External+eSATA+Cable+M%2FM+%28ESATA6%29&pd_rd_r=6eab1166-5668-4e76-b080-cd41704b8ab8&ie=UTF8&qid=1531423410&sr=1
 
 
 Or not so cheap:
